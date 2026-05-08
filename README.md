@@ -10,4 +10,5 @@ The launcher supports microsoft accounts as well as temporarily supports offline
 
 # CREDITS
 VespoMC: Owner / Developer
+
 keen_port6 / sigmakeen6: Beta Tester
