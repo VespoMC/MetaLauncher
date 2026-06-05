@@ -28,13 +28,13 @@ All rights reserved.
 
 This software is proprietary and confidential.
 You may not copy, modify, decompile, distribute, or otherwise
-redistribute this Mod or any portion of its source code or assets,
+redistribute this software or any portion of its source code or assets,
 except where expressly permitted by the author in writing.
 
 The software is provided "as is", without warranty of any kind,
 express or implied, including but not limited to the warranties
 of merchantability, fitness for a particular purpose, and
-noninfringement.```
+noninfringement.
 
 Any unauthorized use, distribution, or modification of this
 software is strictly prohibited and may result in legal action.
